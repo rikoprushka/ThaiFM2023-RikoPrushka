@@ -1,6 +1,8 @@
 # ThaiFM2023-RikoPrushka
 ภาษาไทยสำหรับ Football Manager 2023
 
+![alt text](https://steamuserimages-a.akamaihd.net/ugc/2010345155012349036/06C3E82F577EFA54F26CD1D33326F163EED60AA7/ "ภาษาไทยสำหรับ Football Manager 2023")
+
 # วิธีการติดตั้ง
 
 ดาวน์โหลดไฟล์ติดตั้งฟอนต์จาก [GitHub](https://github.com/rikoprushka/ThaiFMFonts/releases)
