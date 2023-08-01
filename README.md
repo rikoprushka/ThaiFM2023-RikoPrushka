@@ -10,7 +10,7 @@
 C:\Users\%USERNAME%\Documents\Sports Interactive\Football Manager 2023\
 ```
 
-1. กดปุ่ม **สมัครสมาชิก** เพื่อดาวน์โหลดคำแปลภาษาไทย จากนั้นรอให้ไคลเอนต์ของ Steam ดาวน์โหลดไฟล์จนเสร็จสิ้น
+1. กดปุ่ม [สมัครสมาชิก](https://steamcommunity.com/sharedfiles/filedetails/?id=3009619373) เพื่อดาวน์โหลดคำแปลภาษาไทย จากนั้นรอให้ไคลเอนต์ของ Steam ดาวน์โหลดไฟล์จนเสร็จสิ้น
 2. เริ่มเกม Football Manager 2023 จากนั้นไปที่ **Preferences -> Advanced -> General -> Game Language ->** เลือก ***Thai by RikoPrushka*** แล้วกด **Confirm**
 3. หากไม่มีตัวเลือกภาษาไทย ให้กด **Quit** ออกจากเกมแล้วเริ่มเกมใหม่อีกครั้ง
 4. หากตัวเกมยังไม่แสดงผลเป็นภาษาไทยให้เปลี่ยนเป็นสกินที่รองรับฟอนต์ โดยเข้าไปที่ Preferences -> Overview -> Skin เพื่อเลือกสกินที่ต้องการ
